@@ -15,3 +15,5 @@ include: [".well-known"]
 highlighter: rouge
 plugins:
   - jekyll-feed
+
+theme: jekyll-theme-merlot
