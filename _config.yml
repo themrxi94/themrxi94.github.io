@@ -1,0 +1,17 @@
+title: David
+email: support@david.inf.um.es
+description: " "
+biography: " "
+colophon: " "
+baseurl: " "
+url: "https://david-fium.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+markdown: kramdown
+simple_search: http://google.com/search
+permalink: /blog/:year/:month/:day/:title/
+
+include: [".well-known"]
+
+highlighter: rouge
+plugins:
+  - jekyll-feed

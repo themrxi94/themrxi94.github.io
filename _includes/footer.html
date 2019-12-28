@@ -1,0 +1,47 @@
+<footer>
+  <div class="container">
+    <div class="row biography">
+      <div class="col-sm-4">
+        <a href="{{site.url}}/about"><h2>¿Quién Soy?</h2></a>
+        <p>{{ site.biography }}</p>
+      </div>
+      <div class="col-sm-4">
+        <h2>¿Qué es esto?</h2>
+        <p>{{ site.description }}</p>
+      </div>
+      <div class="col-sm-4">
+        <h2>Encuéntrame</h2>
+          {% if site.email %}
+            <a href="mailto:{{ site.email }}">
+              <i class="fa fa-envelope" aria-hidden="true"></i>
+            </a>
+          {% endif %}
+          {% if site.github_username %}
+            <a href="https://github.com/{{ site.github_username }}">
+              <i class="fa fa-github" aria-hidden="true"></i>
+            </a>
+          {% endif %}
+          {% if site.twitter_username %}
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+              <i class="fa fa-twitter" aria-hidden="true"></i>
+            </a>
+          {% endif %}
+	  {% if site.youtube_username %}
+            <a href="https://youtube.com/{{ site.youtube_username }}">
+              <i class="fa fa-youtube" aria-hidden="true"></i>
+            </a>
+          {% endif %}
+	  {% if site.twitch_username %}
+            <a href="https://twitch.tv/{{ site.twitch_username }}">
+              <i class="fa fa-twitch" aria-hidden="true"></i>
+            </a>
+          {% endif %}
+      </div>
+    </div>
+    {% if site.colophon %}
+    <div class="row copyright">
+      <center>{{ site.colophon }}</center>
+    </div>
+    {% endif %}
+  </div>
+</footer>

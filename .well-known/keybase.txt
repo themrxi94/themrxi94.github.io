@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/odnetnini
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://odnetnini.ml
+  * I am odnetnini (https://keybase.io/odnetnini) on keybase.
+  * I have a public key with fingerprint 2736 74A3 3F14 6897 55C4  3A8E 95EF 1CF2 5828 51A4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010192403c9bc6c4a3b5456f0c02c8acf583cb0743e28208916fa7c43aa641cced180a",
+      "fingerprint": "273674a33f14689755c43a8e95ef1cf2582851a4",
+      "host": "keybase.io",
+      "key_id": "95ef1cf2582851a4",
+      "kid": "010192403c9bc6c4a3b5456f0c02c8acf583cb0743e28208916fa7c43aa641cced180a",
+      "uid": "1c26cda49ce993f879c9fa0eae16d619",
+      "username": "odnetnini"
+    },
+    "merkle_root": {
+      "ctime": 1505037982,
+      "hash_meta": "34357944b74a188eebab90635af3fbee27146ef64c5e23e47fdf556381d98cd6",
+      "seqno": 1378067
+    },
+    "revoke": {
+      "sig_ids": [
+        "5e88d066f091784be582b5fa4db44e2f3340a8b506c3bada7f35ca5e8a0a58d30f"
+      ]
+    },
+    "service": {
+      "hostname": "odnetnini.ml",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1505038272,
+  "expire_in": 157680000,
+  "prev": "f3d4577a94a93ddbc2bce0d3a6cf94b84e38c118df519cfc7dfda0ab7896c4b7",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMK5AnicrZNdaB1FHMVvTNUYbdNACzaxBBeRRGuZ2ZnZmYlCRepHalpstMZg9HY+
+k/Xe7F53N2lCvFpoC0JRsaDUNEhSBGmhVmkVtRibqPQhCkqwDdhHC4pYq6mVIAFn
+gyKKj+7LsrvnnP+Z3858urK2UF+zY+7k+fqpG76tmZ3ZNVjoebfh9KgnYz3itY96
+JbN8M2Vt0qxYCrXX7gEIIPcxQIpLFSgskCSYBBYo4CsmlCUMKQkoRsZnPmAcBlZQ
+hZEQAYZKGQ0ZEN4Gz4ZRn0kqSRhlLtanKKAuDFmIA8YpIbmFGU6Mhcr6hPmMQIGd
+sT9Oc4crJ0VqNoaxe+ceisv1/kP/P/ceXI6Dyg+UFpgrwzmyjHLFrQBGGBjoAPJc
+mJokEgPGqWMdmSwKo9CrbvAGTFIqm2ISx1lOV2VhroEEEIAoZ75boUj7iwMmE86K
+MCKUYywdHciYMVJIDgJEhEVWGuNTB8zYACtifGQwtdoSEiAGNWdKB65Iap6OYjcB
+UQYC6hokZigumXx4GvY5bqnX/rhHDGMaBI4Ih5RhaRxCSazAWmJsfIsQBoJJAgKF
+pNCCWkSUcC4BBGEaAes9Uc2HJUOhWg7Pf9S/AWwcKLtGlSTOYhWX3Zf+LKuk7TmX
+bKSSS3cZWfwzpCjDSLtt4hxDJknDOHKrcMp/IGM+dcjMcCVMTDHMFYQGDLgrn2OG
+XKRFGhNKBceCI62l8qUyQCMRKMuxZNggpiBkjhzkyiqqrXarkpRxt1Mk/Zuh70Iz
+0ecyHblIZIOJ8aozp3tXFGrqC9dcfVV+fgr1163+61Ttu+napXUnXuVodPvhxunN
+X89NXti5/44LkzX3PHu27e2V+yvvT7xypW761Nm70cNfbfuks2NYLTSPwdp1882P
+PHrbnreeu71y38WD36xez1q3LhI8MjPRcPPBTuhd1sVVxxYXTj7Z1fza8V9fHtyy
+c3bvqgNHdzwgkrU9TfONXd3vfTjVvanzyvRTC2P7Jh773L/rofmuloax8db1R19/
+oen50ralpjuH9e7py3V72poO7P7iyETvmdqpW7q3XjrXWFlxb8fF2Y7x6ndfvjlz
+qOOlX5Itaza/8eCPa89MTJ463vbT+OIPm84du75l9Dxv+bl1zXDLXO+JZ/beeKnu
+d/3i/YWlD3oOf/xb2zvff6b88q0fVf8AuGZ/Yw==
+=9G9j
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/odnetnini
+
+==================================================================
